@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/LV-Lab-1/static/css/main.bc55a784.chunk.css",
+    "main.js": "/LV-Lab-1/static/js/main.7ccc2737.chunk.js",
+    "main.js.map": "/LV-Lab-1/static/js/main.7ccc2737.chunk.js.map",
+    "runtime-main.js": "/LV-Lab-1/static/js/runtime-main.e4f218e0.js",
+    "runtime-main.js.map": "/LV-Lab-1/static/js/runtime-main.e4f218e0.js.map",
+    "static/css/2.4a35ef0a.chunk.css": "/LV-Lab-1/static/css/2.4a35ef0a.chunk.css",
+    "static/js/2.8dfd165a.chunk.js": "/LV-Lab-1/static/js/2.8dfd165a.chunk.js",
+    "static/js/2.8dfd165a.chunk.js.map": "/LV-Lab-1/static/js/2.8dfd165a.chunk.js.map",
+    "static/js/3.10e7177a.chunk.js": "/LV-Lab-1/static/js/3.10e7177a.chunk.js",
+    "static/js/3.10e7177a.chunk.js.map": "/LV-Lab-1/static/js/3.10e7177a.chunk.js.map",
+    "index.html": "/LV-Lab-1/index.html",
+    "static/css/2.4a35ef0a.chunk.css.map": "/LV-Lab-1/static/css/2.4a35ef0a.chunk.css.map",
+    "static/css/main.bc55a784.chunk.css.map": "/LV-Lab-1/static/css/main.bc55a784.chunk.css.map",
+    "static/js/2.8dfd165a.chunk.js.LICENSE.txt": "/LV-Lab-1/static/js/2.8dfd165a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4f218e0.js",
+    "static/css/2.4a35ef0a.chunk.css",
+    "static/js/2.8dfd165a.chunk.js",
+    "static/css/main.bc55a784.chunk.css",
+    "static/js/main.7ccc2737.chunk.js"
+  ]
+}
